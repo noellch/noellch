@@ -1,11 +1,12 @@
 ```csharp
-// Hi! I'm ChiaHsing
+// Hi! I'm Noel
 -------------------------
 Role: Web Engineer
 Location: Taipei, Taiwan
-Frameworks: ReactJS
-StackSkills: TypeScript, NodeJS
-Learning: RxJS
+Language: Javascript, Python, Golang
+Frameworks: ReactJS, NextJS
+StackSkills: TypeScript, NodeJS, Docker, SQL, NoSQL, GraphQL
+Learning: FP
 Linkedin: www.linkedin.com/in/chia-hsing-lo
 ```
 
