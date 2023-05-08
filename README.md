@@ -3,7 +3,7 @@
 -------------------------
 Role: Web Engineer
 Location: Taipei, Taiwan
-Language: Javascript, TypeScript, Python, Golang
+Languages: Javascript, TypeScript, Python, Golang
 Frameworks: ReactJS, NextJS
 StackSkills: NodeJS, Docker, SQL, NoSQL, GraphQL
 Learning: FP
