@@ -12,8 +12,8 @@ Linkedin: www.linkedin.com/in/chia-hsing-lo
 
 <details open="true">	
 <summary><b>⚡ Github Stats</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=noellch&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&locale=en" alt="noellch" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=noellch&hide_border=true&show_icons=true&count_private=true&locale=en" alt="noellch" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=noellch&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="noellch" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=noellch&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&count_private=true" alt="noellch" />
 </details>	
 
