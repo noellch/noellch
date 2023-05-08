@@ -3,9 +3,9 @@
 -------------------------
 Role: Web Engineer
 Location: Taipei, Taiwan
-Language: Javascript, Python, Golang
+Language: Javascript, TypeScript, Python, Golang
 Frameworks: ReactJS, NextJS
-StackSkills: TypeScript, NodeJS, Docker, SQL, NoSQL, GraphQL
+StackSkills: NodeJS, Docker, SQL, NoSQL, GraphQL
 Learning: FP
 Linkedin: www.linkedin.com/in/chia-hsing-lo
 ```
