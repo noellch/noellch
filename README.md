@@ -1,16 +1,18 @@
-### Hi there 👋
+```csharp
+// Hi! I'm ChiaHsing
+-------------------------
+Role: Web Engineer
+Location: Taipei, Taiwan
+Frameworks: ReactJS
+StackSkills: TypeScript, NodeJS
+Learning: RxJS
+Linkedin: www.linkedin.com/in/chia-hsing-lo
+```
 
-<!--
-**noellch/noellch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details open="true">	
+<summary><b>⚡ Github Stats</b></summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chia-Hsing&hide_border=true&show_icons=true" alt="Chia-Hsing" />
 
-Here are some ideas to get you started:
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chia-Hsing&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="Chia-Hsing" />
+</details>	
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
