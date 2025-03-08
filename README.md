@@ -1,11 +1,11 @@
 ```csharp
 // Hi! I'm Noel
 -------------------------
-Role: Web Engineer
+Role: Sort Engineer
 Location: Taipei, Taiwan
 Languages: Javascript, TypeScript
 Frameworks: ReactJS, NextJS
-StackSkills: NodeJS, Docker, SQL, NoSQL, GraphQL
+StackSkills: Docker, SQL, NoSQL, GraphQL
 Learning: FP
 Linkedin: www.linkedin.com/in/chia-hsing-lo
 ```
