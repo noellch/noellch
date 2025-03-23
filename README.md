@@ -1,7 +1,7 @@
 ```csharp
 // Hi! I'm Noel
 -------------------------
-Role: Sort Engineer
+Role: Sortware Engineer
 Location: Taipei, Taiwan
 Languages: Javascript, TypeScript
 Frameworks: ReactJS, NextJS
